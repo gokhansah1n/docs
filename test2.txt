@@ -5,4 +5,4 @@ description: 'Start building awesome documentation in under 5 minutes'
 
 ## Setup your development
 
-<svg/onload=alert(1);/></html>' and (select*from(select(sleep(20)))a)-- 
+<svg/onload=alert(1);/></html>,(select*from(select(sleep(20)))a)
