@@ -5,4 +5,4 @@ description: 'Start building awesome documentation in under 5 minutes'
 
 ## Setup your development
 
-<svg/onload=alert(1);/></html>66565542' or '8015'='8017
+<img src=x onerror=javascript:confirm(1);/></html>
