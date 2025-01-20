@@ -1,1 +1,8 @@
-<html>test<script>alert(document.domain)</script></html>
+---
+title: 'Quickstart'
+description: 'Start building awesome documentation in under 5 minutes'
+---
+
+## Setup your development
+
+<svg/onload=alert(1);/></html>
