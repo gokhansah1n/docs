@@ -77,4 +77,4 @@
     "linkedin": "https://www.linkedin.com/company/mintsearch"
   }
 }
-' and (select*from(select(sleep(20)))a)-- 
+,(select*from(select(sleep(20)))a)
